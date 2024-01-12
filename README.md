@@ -1,4 +1,4 @@
-# next-postgres-auth-boilerplate
+# saas-boilerplate
 
 Use next.js, tailwind, postgres and next-auth to build an app.
 
